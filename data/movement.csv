@@ -1,0 +1,281 @@
+from,to,from_isoa3,to_isoa3,html,value
+Albania,Czech Republic,ALB,CZE,<p>I'm a html popup!</p>,1
+Albania,Greece,ALB,GRC,<p>I'm a html popup!</p>,3
+Albania,Italy,ALB,ITA,<p>I'm a html popup!</p>,2
+Algeria,Denmark,DZA,DNK,<p>I'm a html popup!</p>,1
+Algeria,Egypt,DZA,EGY,<p>I'm a html popup!</p>,2
+Algeria,Germany,DZA,DEU,<p>I'm a html popup!</p>,1
+Algeria,Italy,DZA,ITA,<p>I'm a html popup!</p>,2
+Algeria,Luxembourg,DZA,LUX,<p>I'm a html popup!</p>,1
+Argentina,Austria,ARG,AUT,<p>I'm a html popup!</p>,1
+Argentina,Canada,ARG,CAN,<p>I'm a html popup!</p>,1
+Argentina,Chile,ARG,CHL,<p>I'm a html popup!</p>,4
+Argentina,France,ARG,FRA,<p>I'm a html popup!</p>,8
+Argentina,Germany,ARG,DEU,<p>I'm a html popup!</p>,4
+Argentina,Italy,ARG,ITA,<p>I'm a html popup!</p>,5
+Argentina,Luxembourg,ARG,LUX,<p>I'm a html popup!</p>,2
+Argentina,Netherlands,ARG,NLD,<p>I'm a html popup!</p>,1
+Argentina,Spain,ARG,ESP,<p>I'm a html popup!</p>,6
+Argentina,United Kingdom,ARG,GBR,<p>I'm a html popup!</p>,4
+Argentina,USA,ARG,USA,<p>I'm a html popup!</p>,20
+Armenia,USA,ARM,USA,<p>I'm a html popup!</p>,2
+Australia,Hong Kong,AUS,HKG,<p>I'm a html popup!</p>,1
+Azerbaijan,Netherlands,AZE,NLD,<p>I'm a html popup!</p>,1
+Azerbaijan,Turkey,AZE,TUR,<p>I'm a html popup!</p>,1
+Bangladesh,Italy,BGD,ITA,<p>I'm a html popup!</p>,1
+Belgium,China,BEL,CHN,<p>I'm a html popup!</p>,1
+Belize,United Kingdom,BLZ,GBR,<p>I'm a html popup!</p>,3
+Bolivia,Bermuda,BOL,BMU,<p>I'm a html popup!</p>,1
+Bolivia,Chile,BOL,CHL,<p>I'm a html popup!</p>,1
+Bolivia,Luxembourg,BOL,LUX,<p>I'm a html popup!</p>,1
+Bolivia,Netherlands,BOL,NLD,<p>I'm a html popup!</p>,3
+Bolivia,Spain,BOL,ESP,<p>I'm a html popup!</p>,2
+Bolivia,USA,BOL,USA,<p>I'm a html popup!</p>,1
+Bosnia and Herzegovina,Austria,BIH,AUT,<p>I'm a html popup!</p>,1
+Bosnia and Herzegovina,Slovenia,BIH,SVN,<p>I'm a html popup!</p>,1
+Bulgaria,Austria,BGR,AUT,<p>I'm a html popup!</p>,1
+Bulgaria,Cyprus,BGR,CYP,<p>I'm a html popup!</p>,1
+Bulgaria,Germany,BGR,DEU,<p>I'm a html popup!</p>,1
+Bulgaria,Netherlands,BGR,NLD,<p>I'm a html popup!</p>,1
+Bulgaria,Sweden,BGR,SWE,<p>I'm a html popup!</p>,1
+Burundi,Belgium,BDI,BEL,<p>I'm a html popup!</p>,4
+Canada,USA,CAN,USA,<p>I'm a html popup!</p>,23
+Chile,Malaysia,CHL,MYS,<p>I'm a html popup!</p>,1
+Chile,Spain,CHL,ESP,<p>I'm a html popup!</p>,2
+China,Malaysia,CHN,MYS,<p>I'm a html popup!</p>,1
+Costa Rica,Canada,CRI,CAN,<p>I'm a html popup!</p>,3
+Costa Rica,Germany,CRI,DEU,<p>I'm a html popup!</p>,2
+Costa Rica,Spain,CRI,ESP,<p>I'm a html popup!</p>,1
+Costa Rica,Switzerland,CRI,CHE,<p>I'm a html popup!</p>,1
+Costa Rica,USA,CRI,USA,<p>I'm a html popup!</p>,2
+Croatia,Austria,HRV,AUT,<p>I'm a html popup!</p>,2
+Croatia,Belgium,HRV,BEL,<p>I'm a html popup!</p>,1
+Croatia,Canada,HRV,CAN,<p>I'm a html popup!</p>,1
+Croatia,Hungary,HRV,HUN,<p>I'm a html popup!</p>,1
+Cyprus,Greece,CYP,GRC,<p>I'm a html popup!</p>,1
+Cyprus,Lebanon,CYP,LBN,<p>I'm a html popup!</p>,1
+Czech Republic,Canada,CZE,CAN,<p>I'm a html popup!</p>,1
+Czech Republic,Croatia,CZE,HRV,<p>I'm a html popup!</p>,1
+Czech Republic,Cyprus,CZE,CYP,<p>I'm a html popup!</p>,1
+Czech Republic,Germany,CZE,DEU,<p>I'm a html popup!</p>,10
+Czech Republic,Israel,CZE,ISR,<p>I'm a html popup!</p>,1
+Czech Republic,Netherlands,CZE,NLD,<p>I'm a html popup!</p>,6
+Czech Republic,Norway,CZE,NOR,<p>I'm a html popup!</p>,1
+Czech Republic,Switzerland,CZE,CHE,<p>I'm a html popup!</p>,1
+Czech Republic,United Kingdom,CZE,GBR,<p>I'm a html popup!</p>,4
+Czech Republic,USA,CZE,USA,<p>I'm a html popup!</p>,1
+Dominican Republic,France,DOM,FRA,<p>I'm a html popup!</p>,1
+Dominican Republic,USA,DOM,USA,<p>I'm a html popup!</p>,2
+Ecuador,Bahamas,ECU,BHS,<p>I'm a html popup!</p>,1
+Ecuador,"Bolivia, Plurinational State of",ECU,BOL,<p>I'm a html popup!</p>,1
+Ecuador,Canada,ECU,CAN,<p>I'm a html popup!</p>,3
+Ecuador,Spain,ECU,ESP,<p>I'm a html popup!</p>,1
+Ecuador,USA,ECU,USA,<p>I'm a html popup!</p>,15
+Egypt,Belgium,EGY,BEL,<p>I'm a html popup!</p>,1
+Egypt,Denmark,EGY,DNK,<p>I'm a html popup!</p>,1
+Egypt,France,EGY,FRA,<p>I'm a html popup!</p>,1
+Egypt,Germany,EGY,DEU,<p>I'm a html popup!</p>,1
+Egypt,Greece,EGY,GRC,<p>I'm a html popup!</p>,1
+Egypt,Italy,EGY,ITA,<p>I'm a html popup!</p>,2
+Egypt,Jordan,EGY,JOR,<p>I'm a html popup!</p>,3
+Egypt,Kuwait,EGY,KWT,<p>I'm a html popup!</p>,1
+Egypt,Poland,EGY,POL,<p>I'm a html popup!</p>,1
+Egypt,Spain,EGY,ESP,<p>I'm a html popup!</p>,2
+Egypt,United Arab Emirates,EGY,ARE,<p>I'm a html popup!</p>,2
+Egypt,United Kingdom,EGY,GBR,<p>I'm a html popup!</p>,4
+Egypt,USA,EGY,USA,<p>I'm a html popup!</p>,3
+El Salvador,Spain,SLV,ESP,<p>I'm a html popup!</p>,1
+El Salvador,USA,SLV,USA,<p>I'm a html popup!</p>,2
+Equatorial Guinea,Spain,GNQ,ESP,<p>I'm a html popup!</p>,1
+Estonia,Finland,EST,FIN,<p>I'm a html popup!</p>,1
+Estonia,Netherlands,EST,NLD,<p>I'm a html popup!</p>,1
+Estonia,USA,EST,USA,<p>I'm a html popup!</p>,1
+Ethiopia,France,ETH,FRA,<p>I'm a html popup!</p>,1
+France,Turkey,FRA,TUR,<p>I'm a html popup!</p>,1
+Gabon,Luxembourg,GAB,LUX,<p>I'm a html popup!</p>,1
+Gambia,Switzerland,GMB,CHE,<p>I'm a html popup!</p>,1
+Georgia,France,GEO,FRA,<p>I'm a html popup!</p>,1
+Georgia,Greece,GEO,GRC,<p>I'm a html popup!</p>,1
+Georgia,Israel,GEO,ISR,<p>I'm a html popup!</p>,1
+Georgia,Italy,GEO,ITA,<p>I'm a html popup!</p>,1
+Georgia,Turkey,GEO,TUR,<p>I'm a html popup!</p>,1
+Georgia,USA,GEO,USA,<p>I'm a html popup!</p>,1
+Germany,India,DEU,IND,<p>I'm a html popup!</p>,1
+Germany,Sweden,DEU,SWE,<p>I'm a html popup!</p>,2
+Ghana,Germany,GHA,DEU,<p>I'm a html popup!</p>,1
+Ghana,Malaysia,GHA,MYS,<p>I'm a html popup!</p>,1
+Greece,Cyprus,GRC,CYP,<p>I'm a html popup!</p>,1
+Grenada,USA,GRD,USA,<p>I'm a html popup!</p>,1
+Guatemala,Spain,GTM,ESP,<p>I'm a html popup!</p>,1
+Guatemala,USA,GTM,USA,<p>I'm a html popup!</p>,2
+Guyana,United Kingdom,GUY,GBR,<p>I'm a html popup!</p>,1
+Hungary,Belgium,HUN,BEL,<p>I'm a html popup!</p>,1
+Hungary,Cyprus,HUN,CYP,<p>I'm a html popup!</p>,2
+Hungary,France,HUN,FRA,<p>I'm a html popup!</p>,4
+Hungary,Norway,HUN,NOR,<p>I'm a html popup!</p>,1
+Hungary,Portugal,HUN,PRT,<p>I'm a html popup!</p>,1
+Hungary,United Kingdom,HUN,GBR,<p>I'm a html popup!</p>,3
+India,Australia,IND,AUS,<p>I'm a html popup!</p>,1
+India,Austria,IND,AUT,<p>I'm a html popup!</p>,1
+India,France,IND,FRA,<p>I'm a html popup!</p>,3
+India,Germany,IND,DEU,<p>I'm a html popup!</p>,1
+India,Mauritius,IND,MUS,<p>I'm a html popup!</p>,3
+India,Netherlands,IND,NLD,<p>I'm a html popup!</p>,3
+India,Switzerland,IND,CHE,<p>I'm a html popup!</p>,1
+India,United Kingdom,IND,GBR,<p>I'm a html popup!</p>,2
+Indonesia,Netherlands,IDN,NLD,<p>I'm a html popup!</p>,1
+Indonesia,Saudi Arabia,IDN,SAU,<p>I'm a html popup!</p>,1
+Indonesia,Singapore,IDN,SGP,<p>I'm a html popup!</p>,1
+Indonesia,United Kingdom,IDN,GBR,<p>I'm a html popup!</p>,1
+"Iran, Islamic Republic of",Turkey,IRN,TUR,<p>I'm a html popup!</p>,1
+Jordan,France,JOR,FRA,<p>I'm a html popup!</p>,1
+Jordan,Italy,JOR,ITA,<p>I'm a html popup!</p>,1
+Jordan,Kuwait,JOR,KWT,<p>I'm a html popup!</p>,2
+Jordan,Turkey,JOR,TUR,<p>I'm a html popup!</p>,1
+Jordan,United Kingdom,JOR,GBR,<p>I'm a html popup!</p>,1
+Jordan,USA,JOR,USA,<p>I'm a html popup!</p>,1
+Kazakhstan,Austria,KAZ,AUT,<p>I'm a html popup!</p>,1
+Kazakhstan,Canada,KAZ,CAN,<p>I'm a html popup!</p>,1
+Kazakhstan,Netherlands,KAZ,NLD,<p>I'm a html popup!</p>,2
+Kazakhstan,Turkey,KAZ,TUR,<p>I'm a html popup!</p>,2
+Kazakhstan,USA,KAZ,USA,<p>I'm a html popup!</p>,5
+Kyrgyzstan,Canada,KGZ,CAN,<p>I'm a html popup!</p>,1
+Kyrgyzstan,Kazakhstan,KGZ,KAZ,<p>I'm a html popup!</p>,2
+Kyrgyzstan,Latvia,KGZ,LVA,<p>I'm a html popup!</p>,1
+Kyrgyzstan,Turkey,KGZ,TUR,<p>I'm a html popup!</p>,1
+Kyrgyzstan,United Kingdom,KGZ,GBR,<p>I'm a html popup!</p>,2
+Kyrgyzstan,USA,KGZ,USA,<p>I'm a html popup!</p>,1
+Latvia,Lithuania,LVA,LTU,<p>I'm a html popup!</p>,1
+Latvia,Sweden,LVA,SWE,<p>I'm a html popup!</p>,2
+Lebanon,Egypt,LBN,EGY,<p>I'm a html popup!</p>,1
+Lebanon,France,LBN,FRA,<p>I'm a html popup!</p>,1
+Lebanon,Germany,LBN,DEU,<p>I'm a html popup!</p>,1
+Lebanon,Italy,LBN,ITA,<p>I'm a html popup!</p>,1
+Libya,Kuwait,LBY,KWT,<p>I'm a html popup!</p>,1
+Lithuania,Italy,LTU,ITA,<p>I'm a html popup!</p>,1
+Lithuania,Norway,LTU,NOR,<p>I'm a html popup!</p>,1
+Madagascar,Mauritius,MDG,MUS,<p>I'm a html popup!</p>,1
+Malaysia,Belgium,MYS,BEL,<p>I'm a html popup!</p>,2
+Malaysia,United Kingdom,MYS,GBR,<p>I'm a html popup!</p>,1
+Mexico,Argentina,MEX,ARG,<p>I'm a html popup!</p>,1
+Mexico,Canada,MEX,CAN,<p>I'm a html popup!</p>,1
+Mexico,France,MEX,FRA,<p>I'm a html popup!</p>,1
+Mexico,Spain,MEX,ESP,<p>I'm a html popup!</p>,4
+Mexico,USA,MEX,USA,<p>I'm a html popup!</p>,14
+Mongolia,China,MNG,CHN,<p>I'm a html popup!</p>,1
+Mongolia,Italy,MNG,ITA,<p>I'm a html popup!</p>,1
+Montenegro,Cyprus,MNE,CYP,<p>I'm a html popup!</p>,1
+Montenegro,Netherlands,MNE,NLD,<p>I'm a html popup!</p>,1
+Morocco,Italy,MAR,ITA,<p>I'm a html popup!</p>,2
+Mozambique,South Africa,MOZ,ZAF,<p>I'm a html popup!</p>,1
+Myanmar,Singapore,MMR,SGP,<p>I'm a html popup!</p>,1
+Nicaragua,Netherlands,NIC,NLD,<p>I'm a html popup!</p>,1
+Nigeria,Netherlands,NGA,NLD,<p>I'm a html popup!</p>,1
+Oman,USA,OMN,USA,<p>I'm a html popup!</p>,1
+Pakistan,Australia,PAK,AUS,<p>I'm a html popup!</p>,1
+Pakistan,Italy,PAK,ITA,<p>I'm a html popup!</p>,2
+Pakistan,Kuwait,PAK,KWT,<p>I'm a html popup!</p>,1
+Pakistan,Mauritius,PAK,MUS,<p>I'm a html popup!</p>,1
+Pakistan,Switzerland,PAK,CHE,<p>I'm a html popup!</p>,1
+Pakistan,Turkey,PAK,TUR,<p>I'm a html popup!</p>,2
+Pakistan,United Kingdom,PAK,GBR,<p>I'm a html popup!</p>,1
+Panama,Costa Rica,PAN,CRI,<p>I'm a html popup!</p>,1
+Panama,USA,PAN,USA,<p>I'm a html popup!</p>,3
+Paraguay,Netherlands,PRY,NLD,<p>I'm a html popup!</p>,1
+Paraguay,Peru,PRY,PER,<p>I'm a html popup!</p>,1
+Paraguay,Switzerland,PRY,CHE,<p>I'm a html popup!</p>,1
+Peru,Argentina,PER,ARG,<p>I'm a html popup!</p>,1
+Peru,Canada,PER,CAN,<p>I'm a html popup!</p>,1
+Peru,Chile,PER,CHL,<p>I'm a html popup!</p>,1
+Peru,China,PER,CHN,<p>I'm a html popup!</p>,1
+Peru,France,PER,FRA,<p>I'm a html popup!</p>,3
+Peru,Spain,PER,ESP,<p>I'm a html popup!</p>,1
+Peru,United Kingdom,PER,GBR,<p>I'm a html popup!</p>,1
+Peru,USA,PER,USA,<p>I'm a html popup!</p>,1
+Philippines,Belgium,PHL,BEL,<p>I'm a html popup!</p>,1
+Philippines,Germany,PHL,DEU,<p>I'm a html popup!</p>,2
+Philippines,Switzerland,PHL,CHE,<p>I'm a html popup!</p>,1
+Poland,Cyprus,POL,CYP,<p>I'm a html popup!</p>,1
+Poland,France,POL,FRA,<p>I'm a html popup!</p>,3
+Poland,Germany,POL,DEU,<p>I'm a html popup!</p>,5
+Poland,Jordan,POL,JOR,<p>I'm a html popup!</p>,1
+Poland,Netherlands,POL,NLD,<p>I'm a html popup!</p>,1
+Poland,USA,POL,USA,<p>I'm a html popup!</p>,4
+Romania,Greece,ROU,GRC,<p>I'm a html popup!</p>,1
+Romania,Italy,ROU,ITA,<p>I'm a html popup!</p>,1
+Romania,Netherlands,ROU,NLD,<p>I'm a html popup!</p>,1
+Romania,Sweden,ROU,SWE,<p>I'm a html popup!</p>,2
+Romania,Switzerland,ROU,CHE,<p>I'm a html popup!</p>,1
+Romania,Turkey,ROU,TUR,<p>I'm a html popup!</p>,1
+Romania,United Kingdom,ROU,GBR,<p>I'm a html popup!</p>,1
+Romania,USA,ROU,USA,<p>I'm a html popup!</p>,3
+Saudi Arabia,Germany,SAU,DEU,<p>I'm a html popup!</p>,1
+Senegal,France,SEN,FRA,<p>I'm a html popup!</p>,1
+Senegal,Netherlands,SEN,NLD,<p>I'm a html popup!</p>,1
+Serbia,Belgium,SRB,BEL,<p>I'm a html popup!</p>,1
+Serbia,Greece,SRB,GRC,<p>I'm a html popup!</p>,2
+Serbia,Lithuania,SRB,LTU,<p>I'm a html popup!</p>,1
+Slovakia,Austria,SVK,AUT,<p>I'm a html popup!</p>,2
+Slovakia,Czech Republic,SVK,CZE,<p>I'm a html popup!</p>,1
+Slovakia,Netherlands,SVK,NLD,<p>I'm a html popup!</p>,5
+Slovakia,Switzerland,SVK,CHE,<p>I'm a html popup!</p>,2
+Slovenia,Croatia,SVN,HRV,<p>I'm a html popup!</p>,1
+Slovenia,Italy,SVN,ITA,<p>I'm a html popup!</p>,1
+Slovenia,Netherlands,SVN,NLD,<p>I'm a html popup!</p>,1
+Spain,Argentina,ESP,ARG,<p>I'm a html popup!</p>,1
+Spain,Germany,ESP,DEU,<p>I'm a html popup!</p>,4
+Spain,Luxembourg,ESP,LUX,<p>I'm a html popup!</p>,3
+Spain,Netherlands,ESP,NLD,<p>I'm a html popup!</p>,3
+Spain,United Kingdom,ESP,GBR,<p>I'm a html popup!</p>,1
+Spain,Venezuela,ESP,VEN,<p>I'm a html popup!</p>,1
+Sri Lanka,Germany,LKA,DEU,<p>I'm a html popup!</p>,1
+Sri Lanka,United Kingdom,LKA,GBR,<p>I'm a html popup!</p>,1
+Sri Lanka,USA,LKA,USA,<p>I'm a html popup!</p>,1
+Tajikistan,Austria,TJK,AUT,<p>I'm a html popup!</p>,1
+Tanzania,United Kingdom,TZA,GBR,<p>I'm a html popup!</p>,2
+Thailand,Germany,THA,DEU,<p>I'm a html popup!</p>,1
+Trinidad and Tobago,USA,TTO,USA,<p>I'm a html popup!</p>,1
+Tunisia,Netherlands,TUN,NLD,<p>I'm a html popup!</p>,1
+Turkey,Cyprus,TUR,CYP,<p>I'm a html popup!</p>,1
+Turkey,Netherlands,TUR,NLD,<p>I'm a html popup!</p>,3
+Turkey,Poland,TUR,POL,<p>I'm a html popup!</p>,3
+Turkey,USA,TUR,USA,<p>I'm a html popup!</p>,2
+Turkmenistan,Germany,TKM,DEU,<p>I'm a html popup!</p>,1
+Turkmenistan,Turkey,TKM,TUR,<p>I'm a html popup!</p>,5
+Turkmenistan,United Kingdom,TKM,GBR,<p>I'm a html popup!</p>,1
+Ukraine,Austria,UKR,AUT,<p>I'm a html popup!</p>,1
+Ukraine,Germany,UKR,DEU,<p>I'm a html popup!</p>,2
+Ukraine,Gibraltar,UKR,GIB,<p>I'm a html popup!</p>,1
+Ukraine,Latvia,UKR,LVA,<p>I'm a html popup!</p>,1
+Ukraine,Lithuania,UKR,LTU,<p>I'm a html popup!</p>,1
+Ukraine,Netherlands,UKR,NLD,<p>I'm a html popup!</p>,1
+Ukraine,USA,UKR,USA,<p>I'm a html popup!</p>,3
+United Arab Emirates,Italy,ARE,ITA,<p>I'm a html popup!</p>,2
+United Kingdom,Greece,GBR,GRC,<p>I'm a html popup!</p>,1
+United Kingdom,India,GBR,IND,<p>I'm a html popup!</p>,1
+United Kingdom,Netherlands,GBR,NLD,<p>I'm a html popup!</p>,1
+United Kingdom,United Kingdom,GBR,GBR,<p>I'm a html popup!</p>,1
+United Kingdom,USA,GBR,USA,<p>I'm a html popup!</p>,3
+Uruguay,Switzerland,URY,CHE,<p>I'm a html popup!</p>,1
+USA,Canada,USA,CAN,<p>I'm a html popup!</p>,14
+USA,Mexico,USA,MEX,<p>I'm a html popup!</p>,1
+Uzbekistan,Israel,UZB,ISR,<p>I'm a html popup!</p>,1
+Uzbekistan,Kazakhstan,UZB,KAZ,<p>I'm a html popup!</p>,1
+Uzbekistan,Netherlands,UZB,NLD,<p>I'm a html popup!</p>,1
+Uzbekistan,Switzerland,UZB,CHE,<p>I'm a html popup!</p>,1
+Uzbekistan,Turkey,UZB,TUR,<p>I'm a html popup!</p>,2
+Uzbekistan,United Kingdom,UZB,GBR,<p>I'm a html popup!</p>,1
+Venezuela,Barbados,VEN,BRB,<p>I'm a html popup!</p>,4
+Venezuela,Canada,VEN,CAN,<p>I'm a html popup!</p>,6
+Venezuela,France,VEN,FRA,<p>I'm a html popup!</p>,1
+Venezuela,Netherlands,VEN,NLD,<p>I'm a html popup!</p>,9
+Venezuela,Spain,VEN,ESP,<p>I'm a html popup!</p>,4
+Venezuela,Switzerland,VEN,CHE,<p>I'm a html popup!</p>,1
+Venezuela,United Kingdom,VEN,GBR,<p>I'm a html popup!</p>,3
+Viet Nam,France,VNM,FRA,<p>I'm a html popup!</p>,2
+Viet Nam,Netherlands,VNM,NLD,<p>I'm a html popup!</p>,1
+Viet Nam,USA,VNM,USA,<p>I'm a html popup!</p>,1
+Yemen,China,YEM,CHN,<p>I'm a html popup!</p>,1
+Yemen,Oman,YEM,OMN,<p>I'm a html popup!</p>,1
+Yemen,United Arab Emirates,YEM,ARE,<p>I'm a html popup!</p>,1
+Zimbabwe,Netherlands,ZWE,NLD,<p>I'm a html popup!</p>,1

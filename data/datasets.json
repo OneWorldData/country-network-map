@@ -1,0 +1,171 @@
+{
+ "dataworld-geboortecijfers": {
+   "label": "Geboorten per vrouw",
+   "url": "../data/dataworld/geboortecijfer-totaal-geboorten-per-vrouw-sp-dyn-tfrt-in-wereldbank.csv",
+   "backend": "csv",
+   "id": "model_geboortecijfers",
+   "fieldsType": [
+     {
+       "id": "Country Name",
+       "type": "string"
+     },
+     {
+       "id": "Country Code",
+       "type": "countrycode"
+     },
+     {
+       "id": "2011",
+       "type": "number"
+     },
+     {
+       "id": "2010",
+       "type": "number"
+     }
+   ]
+ },
+  "dataworld-threecountries": {
+    "label": "Broken on acc",
+    "backend": "csv",
+    "url": "../data/dataworld/threecountries.csv",
+    "id": "model_threecountries",
+    "fieldsType": [
+      {
+        "id": "country",
+        "type": "countrycode"
+      },
+      {
+        "id": "2000",
+        "type": "number"
+      },
+      {
+        "id": "2001",
+        "type": "number"
+      }
+    ]
+  },
+ "dataworld-population": {
+   "label": "Populatie",
+   "url": "../data/dataworld/population-worldbank.csv",
+   "backend": "csv",
+   "id": "model_populatie",
+   "fieldsType": [
+     {
+       "id": "Country Name",
+       "type": "string"
+     },
+     {
+       "id": "Country Code",
+       "type": "countrycode"
+     },
+     {
+       "id": "2011",
+       "type": "integer"
+     },
+     {
+       "id": "2010",
+       "type": "integer"
+     }
+   ]
+ },
+  "nederland-sewage": {
+    "label": "Nederland - Rioolheffing per eénpersoon",
+    "url": "../data/dataworld/nl-sewage.csv",
+    "backend": "csv",
+    "id": "model_populatie",
+    "fieldsType": [
+      {
+        "id": "GM_CODE",
+        "type": "gemeentecode"
+      },
+      {
+        "id": "Gemeente code",
+        "type": "string"
+      },
+      {
+        "id": "Gemeentenaam",
+        "type": "string"
+      },
+      {
+        "id": "Eénpersoonshuishouden",
+        "type": "integer"
+      }
+    ]
+  },
+  "landgrab": {
+    "label": "Selectie landgrab data",
+    "url": "../data/dataworld/landgrab.csv",
+    "backend": "csv",
+    "id": "model_populatie",
+    "fieldsType": [
+      {
+        "id": "Country Code",
+        "type": "countrycode"
+      }
+    ]
+  },
+  "movement": {
+    "label": "Sample movement",
+    "url": "../data/dataworld/movement.csv",
+    "backend": "csv",
+    "id": "model_movement",
+    "fieldsType": [
+      {
+        "id": "correspondent state_isoa3",
+        "type": "country_from"
+      },
+      {
+        "id": "claimant state_isoa3",
+        "type": "country_to"
+      },
+      {
+        "id": "zaken",
+        "type": "integer"
+      }
+    ]
+  },
+ "dataworld-africa-potable-water": {
+   "label": "Africa dataset: percentage of primary schools with potable water",
+   "url": "../data/dataworld/UIS.AFR.SCHBSP.1.PU.WPOWAT.csv",
+   "backend": "csv",
+   "delimiter": ";",
+   "id": "africa_potable_water",
+   "fieldsType": [
+     {
+       "id": "Country Name",
+       "type": "string"
+     },
+     {
+       "id": "Country Code",
+       "type": "countrycode"
+     },
+     {
+       "id": "2006",
+       "type": "integer"
+     },
+     {
+       "id": "2007",
+       "type": "integer"
+     },
+     {
+       "id": "2008",
+       "type": "integer"
+     },
+     {
+       "id": "2009",
+       "type": "integer"
+     },
+     {
+       "id": "2010",
+       "type": "integer"
+     },
+     {
+       "id": "2011",
+       "type": "integer"
+     },
+     {
+       "id": "2012",
+       "type": "integer"
+     }
+   ]
+ }
+}
